@@ -185,6 +185,3 @@ The Health & Beauty category generated the highest total revenue during the sele
 ## License
 
 This project is intended for educational and research purposes.
-
-```
-```
